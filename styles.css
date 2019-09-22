@@ -1,12 +1,12 @@
 body{
   text-align: center;
-  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPS_NPR6MjWnYV_mfFA0EVzILL_BMQiXlJv9Oo4BsE4Um_ymjj');
+  /* background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPS_NPR6MjWnYV_mfFA0EVzILL_BMQiXlJv9Oo4BsE4Um_ymjj');
   background-repeat: no-repeat;
   background-size: cover;
-  color:white;
+  color:white; */
 
 }
-h1{
+/* h1{
   font-weight: bolder;
   color: red;
   font-size: 2em;
@@ -37,4 +37,4 @@ label{
   font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-
+ */
