@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPS_NPR6MjWnYV_mfFA0EVzILL_BMQiXlJv9Oo4BsE4Um_ymjj');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+
+}
+h1{
+  font-weight: bolder;
+  color: red;
+  font-size: 2em;
+  font-family: 'Gugi', cursive;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  padding-bottom: 2px;
+  font-size: 48px;
+  text-shadow: 2px 2px 5px black;
+  
+}
+.overlay{
+
+  background-color: rgba(0,0,0,0.5);
+  height:100vh;
+}
+
+.form{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+h3{
+  margin-bottom:50px;
+}
+label{
+  font-weight: bolder;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
