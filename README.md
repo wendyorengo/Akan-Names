@@ -37,10 +37,14 @@ Example
 - month input -- 7
 - date input -- 14
 - gender -- male selected, Expected output is You were born on Sunday and Your akan name is Kwasi!
+# License
+copyright (C) **wendyorengo**
 
 # contacts
 
 wendyorengo594@gmail.com
+
+- Tell-0702420361
 
 
 
