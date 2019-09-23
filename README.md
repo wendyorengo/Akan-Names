@@ -3,7 +3,7 @@
 # Description
 - This is simply a website that takes the user's birth information and calaculates the day of the week based on the gender and outputs the Akan name.
 # Live page
--
+-Get the live page through https://wendyorengo.github.io/Akan-Names/
 # Setup instructions
 -Open the terminal
 -cd to the Desktop
