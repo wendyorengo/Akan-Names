@@ -32,11 +32,11 @@
 
 Example
 
--century input -- 20
--year input -- 19
--month input -- 7
--date input -- 14
--gender -- male selected, Expected output is You were born on Sunday and Your akan name is Kwasi!
+- century input -- 20
+- year input -- 19
+- month input -- 7
+- date input -- 14
+- gender -- male selected, Expected output is You were born on Sunday and Your akan name is Kwasi!
 
 # contacts
 
