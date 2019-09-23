@@ -3,7 +3,7 @@
 # Description
 - This is simply a website that takes the user's birth information and calaculates the day of the week based on the gender and outputs the Akan name.
 # Live page
--
+-Get the live page through https://wendyorengo.github.io/Akan-Names/
 # Setup instructions
 -Open the terminal
 -cd to the Desktop
@@ -32,11 +32,11 @@
 
 Example
 
-.century input -- 20
-.year input -- 19
-.month input -- 7
-.date input -- 14
-.gender -- male selected, Expected output is You were born on Sunday and Your akan name is Kwasi!
+- century input -- 20
+- year input -- 19
+- month input -- 7
+- date input -- 14
+- gender -- male selected, Expected output is You were born on Sunday and Your akan name is Kwasi!
 
 # contacts
 
