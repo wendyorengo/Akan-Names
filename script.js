@@ -56,6 +56,12 @@
           document.getElementById("display").innerHTML = ("you were born on Tuesday,your akan name is " + girlNames[2]);
         }
         else if (Math.round(result) == 3 && gender === 'female') {
+          document.getElementById("display").innerHTML = ("you were born on Wednesday,your akan name is " + girlNames[3]);
+        }
+        else if (Math.round(result) == 4 && gender === 'female') {
+          document.getElementById("display").innerHTML = ("you were born on Thursday,your akan name is " + girlNames[4]);
+        }
+        else if (Math.round(result) == 5 && gender === 'female') {
           document.getElementById("display").innerHTML = ("you were born on Friday,your akan name is " + girlNames[5]);
         }
         else if (Math.round(result) == 6 && gender === 'female') {
